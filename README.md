@@ -13,7 +13,9 @@ We discussed in details various ways to approach the dataset. We divided our app
 ### Section 1 - Causes of Death, Nation Wide/Global Insights
 We looked at the dataset in a general countrywise view. We looked at what have been the leading causes throughout the timeframe and how have they changed. How can we look at the same questions for each state. Now, how does the number of deaths compare with the rest of the world? Espcially to "similar" countries with respect to size, GDP and wealth(or poverty). How does United States rank with other countries in mortality rate and what is the progression of time?
 
-Section 2 
+### Section 2 - Add Title and summary (Mohammad)
 We
 
-Section 3 
+### Section 3 Add Title and summary (Brandon)
+
+## Analysis
