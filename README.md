@@ -16,8 +16,9 @@ We looked at the dataset in a general countrywise view. We looked at what have b
 ### Section 2 - Add Title and summary (Mohammad)
 <ADD SUMMARY>
 
-### Section 3 Add Title and summary (Brandon)
-<ADD SUMMARY>
+### Section 3 Leading Causes of Death in Texas and their Trends (Brandon)
+The original data was taken from the CDC included all states and the District of Columbia.  In this section of the project, the group wanted to answer what the leading causes of death were on a micro level.  The discision was made to analyze Texas since that state would satisfy slicing the data to a micro level and would also be the state local to Rice University.  After drilling down into the original dataset and filtering for Texas, it was determined that heart disease, cancer, and stroke were the three leading causes of death respectively.  Please see figure below for more details.
+
 
 ## Research Questions and Analysis
 
