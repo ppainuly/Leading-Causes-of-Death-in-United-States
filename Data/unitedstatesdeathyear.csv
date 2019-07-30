@@ -1,0 +1,181 @@
+Year,Cause Name,Deaths,Age-adjusted Death Rate
+1999,Alzheimer's disease,44536,16.5
+1999,CLRD,124181,45.4
+1999,Cancer,549838,200.8
+1999,Diabetes,68399,25.0
+1999,Heart disease,725192,266.5
+1999,Influenza and pneumonia,63730,23.5
+1999,Kidney disease,35525,13.0
+1999,Stroke,167366,61.6
+1999,Suicide,29199,10.5
+1999,Unintentional injuries,97860,35.3
+2000,Alzheimer's disease,49558,18.1
+2000,CLRD,122009,44.2
+2000,Cancer,553091,199.6
+2000,Diabetes,69301,25.1
+2000,Heart disease,710760,257.6
+2000,Influenza and pneumonia,65313,23.7
+2000,Kidney disease,37251,13.5
+2000,Stroke,167661,60.9
+2000,Suicide,29350,10.4
+2000,Unintentional injuries,97900,34.9
+2001,Alzheimer's disease,53852,19.3
+2001,CLRD,123013,43.9
+2001,Cancer,553768,196.5
+2001,Diabetes,71372,25.4
+2001,Heart disease,700142,249.5
+2001,Influenza and pneumonia,62034,22.2
+2001,Kidney disease,39480,14.1
+2001,Stroke,163538,58.4
+2001,Suicide,30622,10.7
+2001,Unintentional injuries,101537,35.7
+2002,Alzheimer's disease,58866,20.8
+2002,CLRD,124816,43.9
+2002,Cancer,557271,194.3
+2002,Diabetes,73249,25.6
+2002,Heart disease,696947,244.6
+2002,Influenza and pneumonia,65681,23.2
+2002,Kidney disease,40974,14.4
+2002,Stroke,162672,57.2
+2002,Suicide,31655,11.0
+2002,Unintentional injuries,106742,37.1
+2003,Alzheimer's disease,63457,22.1
+2003,CLRD,126382,43.7
+2003,Cancer,556902,190.9
+2003,Diabetes,74219,25.5
+2003,Heart disease,685089,236.3
+2003,Influenza and pneumonia,65163,22.6
+2003,Kidney disease,42453,14.7
+2003,Stroke,157689,54.6
+2003,Suicide,31484,10.8
+2003,Unintentional injuries,109277,37.6
+2004,Alzheimer's disease,65965,22.6
+2004,CLRD,121987,41.6
+2004,Cancer,553888,186.8
+2004,Diabetes,73138,24.8
+2004,Heart disease,652486,221.6
+2004,Influenza and pneumonia,59664,20.4
+2004,Kidney disease,42480,14.5
+2004,Stroke,150074,51.2
+2004,Suicide,32439,11.0
+2004,Unintentional injuries,112012,38.1
+2005,Alzheimer's disease,71599,24.0
+2005,CLRD,130933,43.9
+2005,Cancer,559312,185.1
+2005,Diabetes,75119,24.9
+2005,Heart disease,652091,216.8
+2005,Influenza and pneumonia,63001,21.0
+2005,Kidney disease,43901,14.7
+2005,Stroke,143579,48.0
+2005,Suicide,32637,10.9
+2005,Unintentional injuries,117809,39.5
+2006,Alzheimer's disease,72432,23.7
+2006,CLRD,124583,41.0
+2006,Cancer,559888,181.8
+2006,Diabetes,72449,23.6
+2006,Heart disease,631636,205.5
+2006,Influenza and pneumonia,56326,18.4
+2006,Kidney disease,45344,14.8
+2006,Stroke,137119,44.8
+2006,Suicide,33300,11.0
+2006,Unintentional injuries,121599,40.2
+2007,Alzheimer's disease,74632,23.8
+2007,CLRD,127924,41.4
+2007,Cancer,562875,179.3
+2007,Diabetes,71382,22.8
+2007,Heart disease,616067,196.1
+2007,Influenza and pneumonia,52717,16.8
+2007,Kidney disease,46448,14.9
+2007,Stroke,135952,43.5
+2007,Suicide,34598,11.3
+2007,Unintentional injuries,123706,40.4
+2008,Alzheimer's disease,82435,25.8
+2008,CLRD,141090,44.7
+2008,Cancer,565469,176.4
+2008,Diabetes,70553,22.0
+2008,Heart disease,616828,192.1
+2008,Influenza and pneumonia,56284,17.6
+2008,Kidney disease,48237,15.1
+2008,Stroke,134148,42.1
+2008,Suicide,36035,11.6
+2008,Unintentional injuries,121902,39.3
+2009,Alzheimer's disease,79003,24.2
+2009,CLRD,137353,42.7
+2009,Cancer,567628,173.5
+2009,Diabetes,68705,21.1
+2009,Heart disease,599413,182.8
+2009,Influenza and pneumonia,53692,16.5
+2009,Kidney disease,48935,15.1
+2009,Stroke,128842,39.6
+2009,Suicide,36909,11.8
+2009,Unintentional injuries,118021,37.5
+2010,Alzheimer's disease,83494,25.1
+2010,CLRD,138080,42.2
+2010,Cancer,574743,172.8
+2010,Diabetes,69071,20.8
+2010,Heart disease,597689,179.1
+2010,Influenza and pneumonia,50097,15.1
+2010,Kidney disease,50476,15.3
+2010,Stroke,129476,39.1
+2010,Suicide,38364,12.1
+2010,Unintentional injuries,120859,38.0
+2011,Alzheimer's disease,84974,24.7
+2011,CLRD,142943,42.5
+2011,Cancer,576691,169.0
+2011,Diabetes,73831,21.7
+2011,Heart disease,596577,173.7
+2011,Influenza and pneumonia,53826,15.7
+2011,Kidney disease,45591,13.4
+2011,Stroke,128932,37.9
+2011,Suicide,39518,12.3
+2011,Unintentional injuries,126438,39.1
+2012,Alzheimer's disease,83637,23.8
+2012,CLRD,143489,41.5
+2012,Cancer,582623,166.5
+2012,Diabetes,73932,21.2
+2012,Heart disease,599711,170.5
+2012,Influenza and pneumonia,50636,14.5
+2012,Kidney disease,45622,13.1
+2012,Stroke,128546,36.9
+2012,Suicide,40600,12.6
+2012,Unintentional injuries,127792,39.1
+2013,Alzheimer's disease,84767,23.5
+2013,CLRD,149205,42.1
+2013,Cancer,584881,163.2
+2013,Diabetes,75578,21.2
+2013,Heart disease,611105,169.8
+2013,Influenza and pneumonia,56979,15.9
+2013,Kidney disease,47112,13.2
+2013,Stroke,128978,36.2
+2013,Suicide,41149,12.6
+2013,Unintentional injuries,130557,39.4
+2014,Alzheimer's disease,93541,25.4
+2014,CLRD,147101,40.5
+2014,Cancer,591700,161.2
+2014,Diabetes,76488,20.9
+2014,Heart disease,614348,167.0
+2014,Influenza and pneumonia,55227,15.1
+2014,Kidney disease,48146,13.2
+2014,Stroke,133103,36.5
+2014,Suicide,42826,13.0
+2014,Unintentional injuries,135928,40.5
+2015,Alzheimer's disease,110561,29.4
+2015,CLRD,155041,41.6
+2015,Cancer,595930,158.5
+2015,Diabetes,79535,21.3
+2015,Heart disease,633842,168.5
+2015,Influenza and pneumonia,57062,15.2
+2015,Kidney disease,49959,13.4
+2015,Stroke,140323,37.6
+2015,Suicide,44193,13.3
+2015,Unintentional injuries,146571,43.2
+2016,Alzheimer's disease,116103,30.3
+2016,CLRD,154596,40.6
+2016,Cancer,598038,155.8
+2016,Diabetes,80058,21.0
+2016,Heart disease,635260,165.5
+2016,Influenza and pneumonia,51537,13.5
+2016,Kidney disease,50046,13.1
+2016,Stroke,142142,37.3
+2016,Suicide,44965,13.5
+2016,Unintentional injuries,161374,47.4
