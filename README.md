@@ -28,8 +28,16 @@ After determing heart disease, cancer, and stroke were the top 3 leading causes 
 The age adjusted death rates' trends in Texas seemed to change in 2015 along with the total amounts of deats in 2015 relative to years approximate to 2015.  Since Texas has many oil and gas jobs and a major downturn in the industry began after Thanksgiving of 2014, a hypothesis was made that age adjusted death rates for Texas increased when the unemployment rate increased.  Unemployment data for TX was found and merged into a previous dataframe.  The leading causes of death over time was plotted with the Texas unemployment rate trend over time and overall it did not visually seem to correlate with the age adjusted death rate.  California's, New York's, and Texas' unemployment trends were then plotted with California's, New York's, and Texas' age adjusted deat rates by all causes and again, a trend could not be conslusively visualized.  In fact, during 2010, each state had its highest unemployment rates and the age adjusted death rates continued to decrease.  Texas had the lowest unemployment rates of the states compared in the dataset but also had the higest age adjuste death rates of the states in the comparison.  It is interesting that in 2015, Texas' uneployment rate started to tick up wile California and New York's unemployment rate continued to decrease.  Pearson's correlation coefficient was calculated to be
 -0.241 Texas's age adjusted death rate and its unemployment rates.  The unemployment rates of each state seemed highly correlated as calculted with Pearson's coefficient using pearsonr from scipy.stats.
 
-  What are the leading causes of Death in Texas - 
+  What are the leading causes of Death in Texas? - 
   ![Texas Leading Causes](Charts/texleadingcauses.png)
+  
+  How does the three leading causes of death trend over time for Texas? -
+  ![Texas Leading Causes Trends](Charts/txheartdiseasedeathrate.png)
+  ![Texas Leading Causes Trends](Charts/txcancerdeathrate.png)
+  ![Texas Leading Causes Trends](Charts/txstrokedeathrate.png)
+  
+  
+  
 
 
 
