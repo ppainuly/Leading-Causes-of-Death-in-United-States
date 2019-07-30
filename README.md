@@ -18,8 +18,13 @@ We discussed in details various ways to approach the dataset. We divided our app
 ### Section 1 - Causes of Death, Nation Wide/Global Insights
 We looked at the dataset in a general countrywise view. We looked at what have been the leading causes throughout the timeframe and how have they changed. How can we look at the same questions for each state. Now, how does the number of deaths compare with the rest of the world? Espcially to "similar" countries with respect to size, GDP and wealth(or poverty). How does United States rank with other countries in mortality rate and what is the progression of time?
 
-### Section 2 - Add Title and summary (Mohammad)
-<ADD SUMMARY>
+### Section 2 - Leading Causes of Death in United States
+The initial data from CDC was clean data. All we had to do was filter the data for any state we need. This data includes number of death's in each state nationwide for 11 different causes. Out of 11 causes 10 are specified. Looking at the data first question that came to our mind was what are the leading causes of death in US. All 10 Causes of death were observed
+
+#### Analysis
+When the team looked at the number of deaths in United Sates for each cause we discovered that Heart disease and Cancer are top two causes of death in the nation but over time the pecent of death due to these diseases is going down. Going through the rest of the causes of death we noticed an upward trend in Sucide and Alzheimer's disease.
+
+
 
 ### Section 3 - Leading Causes of Death in Texas  
 The original data was taken from the CDC included all states and the District of Columbia.  In this section of the project, the group wanted to answer what the leading causes of death were on a micro level.  The discision was made to analyze Texas since that state would satisfy slicing the data to a micro level and would also be the state local to Rice University.  After drilling down into the original dataset and filtering for Texas, it was determined that heart disease, cancer, and stroke were the three leading causes of death respectively.  
