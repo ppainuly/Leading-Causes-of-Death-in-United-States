@@ -1,7 +1,8 @@
 # Analyzing the Leading Causes of Death in United Stated
 #### By Pratyush Painuly, Mohammad Shiwani and Brandon Valmont
 
-
+## Aim
+To investigate the distribution of death in United States and form insight at a macro(global) and micro level(statewide).
 
 ## About - 
 CDC released mortality data for each death occured in United States annually, under the National Vital Statistics Systems. This mortality dataset gives insight into every death in the country, including the cause of death, location(State), time and scientific description of the respective cause. Data.cdc.gov takes that data to present the age-adjusted death rates for the 10 leading causes of death in the United States beginning in 1999, which we will be analysing for this project. Our goal is to look into the pattern of death distribution across the country/states and explore the complex circumstances which dominate this dataset, hence get a better understanding of leading causes in the country. We also aim to look at this data with a global outlook and analysis of how the mortality rates of countries with similar size, per capita and GDP match with United States. At a more micro level and local level, the group want to understand what the leading causes of death are in Texas and what the trends over time are for the leading causes in Texas. The group also aims to investigate what could impact those age adjuste death rate trends.  
