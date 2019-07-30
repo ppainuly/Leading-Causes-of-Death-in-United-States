@@ -1,6 +1,8 @@
 # Analyzing the Leading Causes of Death in United Stated
 #### By Pratyush Painuly, Mohammad Shiwani and Brandon Valmont
 
+![Cover page](http://img.picturequotes.com/2/4/3585/i-am-not-afraid-of-death-i-just-dont-want-to-be-there-when-it-happens-quote-1.jpg)
+
 ## Aim
 To investigate the distribution of death in United States and form insight at a macro(global) and micro level(statewide).
 
