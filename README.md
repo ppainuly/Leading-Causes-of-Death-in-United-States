@@ -45,6 +45,8 @@ The age adjusted death rates' trends in Texas seemed to change in 2015 along wit
 ## Research Questions and Analysis
 
 
+
+
 ## Conclusion
   * Heart Diseases, Cancer and Stroke are the three leading causes of Death in United States.
   * Suicide rates and Alzheimer's Disease rates are on the rise
