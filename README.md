@@ -36,6 +36,16 @@ The age adjusted death rates' trends in Texas seemed to change in 2015 along wit
   ![Texas Leading Causes Trends](Charts/txcancerdeathrate.png)
   ![Texas Leading Causes Trends](Charts/txstrokedeathrate.png)
   
+  2015 saw increases in age adjusted death rates for heart disease and stroke and no decrease for cancer.  Did oil and gas downturn and higher rates of  unemployment affect those rates or is there a correlation?
+  ![Texas Unemployment vs Age Adjuste Death Rates for top 3 leading causes](Charts/txleadingcausesdremploytrend.png)
+  
+  How does California's and New York's unemployment correlate to their age adjusted death rates in comparison to Texas and do the 3 states unemployment rates correlate?
+  ![TX CA NY Unemployment vs Age Adjuste Death Rates](Charts/statesdeathrateemploymenttrend.png)
+  
+  
+  
+  
+  
   
   
 
