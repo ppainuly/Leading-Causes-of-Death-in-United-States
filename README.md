@@ -41,6 +41,7 @@ The age adjusted death rates' trends in Texas seemed to change in 2015 along wit
 ## Conclusion
   * Heart Diseases, Cancer and Stroke are the three leading causes of Death in United States.
   * Suicide rates and Alzheimer's Disease rates are on the rise
+  * Heart disease, cancer, and stroke are the three leading causes of death in Texas.
   * New York has the highest distribution of a leading cause for state(Heart Diseases in this case).
   * Texas had lower unemployment rates compared to California and New York, but a higher age-adjusted death rate overall.
   * For Stroke and Heart Diseases, there was a spike in Texas. We investigated if that had a correlation with the Major Oil and Gas Downturn on 2015 and consequently unemployment rates for Texas.
