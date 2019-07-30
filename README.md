@@ -21,10 +21,10 @@ We looked at the dataset in a general countrywise view. We looked at what have b
 ### Section 2 - Add Title and summary (Mohammad)
 <ADD SUMMARY>
 
-### Section 3 Leading Causes of Death in Texas  (Brandon)
+### Section 3 - Leading Causes of Death in Texas  
 The original data was taken from the CDC included all states and the District of Columbia.  In this section of the project, the group wanted to answer what the leading causes of death were on a micro level.  The discision was made to analyze Texas since that state would satisfy slicing the data to a micro level and would also be the state local to Rice University.  After drilling down into the original dataset and filtering for Texas, it was determined that heart disease, cancer, and stroke were the three leading causes of death respectively.  
 
-### Section 4 Leading Causes' Trends (Brandon)
+### Leading Causes' Trends 
 After determing heart disease, cancer, and stroke were the top 3 leading causes of death in Texas respectively, the next question to answer was how does the age adjusted death rates for these leading causes of death trend over time relative to the data set that was available from the CDC (1999-2000).  Overall, it was found that the age adjusted death rates for heart disease, cancer, and stroke were decreasing starting from 1999.  However, 2015 saw the age adjusted death rate tick up for heart disease and stroke while the age adjusted death rate for cancer held steady but did not decline.  
 
 ## Analysis
@@ -51,7 +51,7 @@ Cancer accounts for 9 of 50 states analysed. These states are Alaska, Colorado, 
 
 
 
-### Section 4 Unemployment Rates and Age Adjusted Death Rates (Brandon)
+### Unemployment Rates and Age Adjusted Death Rates 
 The age adjusted death rates' trends in Texas seemed to change in 2015 along with the total amounts of deats in 2015 relative to years approximate to 2015.  Since Texas has many oil and gas jobs and a major downturn in the industry began after Thanksgiving of 2014, a hypothesis was made that age adjusted death rates for Texas increased when the unemployment rate increased.  Unemployment data for TX was found and merged into a previous dataframe.  The leading causes of death over time was plotted with the Texas unemployment rate trend over time and overall it did not visually seem to correlate with the age adjusted death rate.  California's, New York's, and Texas' unemployment trends were then plotted with California's, New York's, and Texas' age adjusted deat rates by all causes and again, a trend could not be conslusively visualized.  In fact, during 2010, each state had its highest unemployment rates and the age adjusted death rates continued to decrease.  Texas had the lowest unemployment rates of the states compared in the dataset but also had the higest age adjuste death rates of the states in the comparison.  It is interesting that in 2015, Texas' uneployment rate started to tick up wile California and New York's unemployment rate continued to decrease.  Pearson's correlation coefficient was calculated to be
 -0.241 Texas's age adjusted death rate and its unemployment rates.  The unemployment rates of each state seemed highly correlated as calculted with Pearson's coefficient using pearsonr from scipy.stats. It is also worth noting that in the dataset comparing TX, CA, and NY unenemployment rate with death rates, California had the lowest death rate of the three states, but also the highest unemployment.
 
@@ -84,10 +84,6 @@ The age adjusted death rates' trends in Texas seemed to change in 2015 along wit
 
 
 
-
-
-
-## Research Questions and Analysis
 
 
 
