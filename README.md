@@ -45,5 +45,5 @@ The age adjusted death rates' trends in Texas seemed to change in 2015 along wit
   * Texas had lower unemployment rates compared to California and New York, but a higher age-adjusted death rate overall.
   * For Stroke and Heart Diseases, there was a spike in Texas. We investigated if that had a correlation with the Major Oil and Gas Downturn on 2015 and consequently unemployment rates for Texas.
   * Since 1985, United States has the worst Mortality rate(per 100000 people) when compared to other countries of "similar" size and wealth.
-  * We formed our null hypothesis that Countries of similar wealth and size will have a similar mortality rate. After performing ANOVA test on the dataa seat featuring 7 countries, the null hypothesis was rejected. However, when we take a group of 4 countries and perform th same test, the dataset is significant. 
+  * We formed our null hypothesis that countries of similar wealth and size will have a similar mortality rate. After performing an ANOVA test on the data set featuring 7 countries, the null hypothesis was rejected. However, when we take a group of 4 countries and perform the same test, the dataset is significant. 
   
