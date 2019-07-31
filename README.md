@@ -46,13 +46,14 @@ The graph shows a darker shade of red for more deaths. As we can expect, the sta
   Proportion of Leading Cause of Death for each State- 
   ![Proportion of Leading Cause of Death for each State](Charts/Proportion_of_Leading_cause_each_state.png)
   
-Heart Disease accounts for 18.31% of all deaths in the State of New York for the entire time period of the dataset. The second highest proportion is New jersey at 15.9% followed by Michigan at 15.83%. Its interesting that the the three highest proportions are all from North-Eastern region and close to each other. Heart diseases is the leading cause for 41 of 50 States. 18 out of 20 largest cities economically have Heart Disease as the leading Cause(Seattle and Denver have Cancer as the leading cause).
+Heart Disease accounts for 18.31% of all deaths in the State of New York for the entire time period of the dataset. The second highest proportion is New jersey at 15.9% followed by Michigan at 15.83%. Its interesting that the the three highest proportions are all from North-Eastern region and close to each other. Heart diseases is the leading cause for 41 of 50 States. 18 out of 20 largest cities economically have Heart Disease as the leading Cause(Seattle and Denver have Cancer as the leading cause). What does that tell us about work life Balance in these economic powerhouses?
 
 California and Texas both have Heart Disease as the Leading Cause of Death at 14.84% and 14.3% respectively.
 
 Cancer accounts for 9 of 50 states analysed. These states are Alaska, Colorado, Maine, Massuchettes, Minnesota, New Hampshire, Oregon, Vermont and Washington. New Mexico has the lowest proportion with Heart Disease accounting for 60798 death among 489205 total deaths with a mortality rate of 12.43%.
 
-
+  Mortality Rate United States and Similar Countries- 
+  ![Mortality Rate United States and Similar Countries](Charts/US_Mortality_v_Global.png)
 
 
 
