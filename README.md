@@ -41,12 +41,12 @@ P.S The plots were made using Plotly and the interactive version of the charts w
   * Total Deaths per State Around United States- 
   ![Deaths Per State around United States](Charts/Total_Deaths_per_State.png)
   
-The graph shows a darker shade of red for more deaths. As we can expect, the states with a higher population density have more deaths. New York, Texas and California show the largest Deaths. These three states account for 5 of the top 10 largest cities in the country(New York, LA, Houston, San Antonio and Dallas). So we expect more deaths per 100000 jut due to the large proportion of popullation occupied by these three states. About 80% of all states have Heart Disease as the leading Cause. 
+The graph shows a darker shade of red for more deaths. As we can expect, the states with a higher population density have more deaths. New York, Texas and California show the largest Deaths. These three states account for 5 of the top 10 largest cities in the country(New York, LA, Houston, San Antonio and Dallas). About 80% of all states have Heart Disease as the leading Cause. 
 
   * Proportion of Leading Cause of Death for each State- 
   ![Proportion of Leading Cause of Death for each State](Charts/Proportion_of_Leading_cause_each_state.png)
   
-Heart Disease accounts for 18.31% of all deaths in the State of New York for the entire time period of the dataset. The second highest proportion is New jersey at 15.9% followed by Michigan at 15.83%. Its interesting that the the three highest proportions are all from North-Eastern region and close to each other. Heart diseases is the leading cause for 41 of 50 States. 18 out of 20 largest cities economically have Heart Disease as the leading Cause(Seattle and Denver have Cancer as the leading cause). What does that tell us about work life Balance in these economic powerhouses?
+New York is the worst affected by Heart Disease, which accounts for 18.31% of all deaths in the State of New York for the entire time period of the dataset. The second highest proportion is New jersey at 15.9% followed by Michigan at 15.83%. Its interesting that the the three highest proportions are all from North-Eastern region and close to each other. Heart diseases is the leading cause for 41 of 50 States. 18 out of 20 largest cities economically have Heart Disease as the leading Cause(Seattle and Denver have Cancer as the leading cause). What does that tell us about work life Balance in these economic powerhouses?
 
 California and Texas both have Heart Disease as the Leading Cause of Death at 14.84% and 14.3% respectively.
 
