@@ -36,12 +36,12 @@ After determing heart disease, cancer, and stroke were the top 3 leading causes 
 
 We looked at the distribution for Causes of Death around the Country, per state and tried to paint a picture how each state relates with its Leading Cause, and how dominant is that Leading Cause for that respective state. The deaths measured and plotted here is the AGe Adjusted Death i.e Number of deaths per 100,000 people. This is done to make sure the data analysed and visualized is normalized and not biased.
 
-  Total Deaths per State Around United States- 
+  * Total Deaths per State Around United States- 
   ![Deaths Per State around United States](Charts/Total_Deaths_per_State.png)
   
 The graph shows a darker shade of red for more deaths. As we can expect, the states with a higher population density have more deaths. New York, Texas and California show the largest Deaths. These three states account for 5 of the top 10 largest cities in the country(New York, LA, Houston, San Antonio and Dallas). So we expect more deaths per 100000 jut due to the large proportion of popullation occupied by these three states. About 80% of all states have Heart Disease as the leading Cause. 
 
-  Proportion of Leading Cause of Death for each State- 
+  * Proportion of Leading Cause of Death for each State- 
   ![Proportion of Leading Cause of Death for each State](Charts/Proportion_of_Leading_cause_each_state.png)
   
 Heart Disease accounts for 18.31% of all deaths in the State of New York for the entire time period of the dataset. The second highest proportion is New jersey at 15.9% followed by Michigan at 15.83%. Its interesting that the the three highest proportions are all from North-Eastern region and close to each other. Heart diseases is the leading cause for 41 of 50 States. 18 out of 20 largest cities economically have Heart Disease as the leading Cause(Seattle and Denver have Cancer as the leading cause). What does that tell us about work life Balance in these economic powerhouses?
@@ -50,7 +50,7 @@ California and Texas both have Heart Disease as the Leading Cause of Death at 14
 
 Cancer accounts for 9 of 50 states analysed. These states are Alaska, Colorado, Maine, Massuchettes, Minnesota, New Hampshire, Oregon, Vermont and Washington. New Mexico has the lowest proportion with Heart Disease accounting for 60798 death among 489205 total deaths with a mortality rate of 12.43%.
 
-  Mortality Rate United States and Similar Countries- 
+  * Mortality Rate United States and Similar Countries- 
 
 The Organisation for Economic Co-operation and Development (OECD) is a group of 34 member countries that discuss and develop economic and social policy. OECD members are democratic countries that support free market economies. They combines a set of countries as being "similar" based on their size, wealth, per capita GDP and socio-economic reforms. Based on that index, we compiled the data set for countries similar to US which are - Austria,	Belgium, France, Japan, Netherlands, Sweden, Switzerland, United Kingdom, Germany, Canada and Australia. The dataset was further cleaned up and Australia, Germany and Canada were removed. We then compiled the "Comparable Country Average" which would account for the 7 countries together. We wanted to look into how the Mortality Rate of the US compares with the Average Comparable Rate from Similar countries.
 
@@ -60,21 +60,21 @@ From the chart above, Mortality Rate in the US over took the Averate trend aroun
 
 We conclude that from a macro level, United States has a much hige number of deaths per 100000 people compared to countries similar in size and wealth.
 
-Distribution of United States with "Similar" Countries  - 
+* Distribution of United States with "Similar" Countries  - 
 
  ![United States and Similar countries data distribution](Charts/US_Mortality_v_Global_Distribution_1.png)
  
-Does the wealth and Size of a country indicate its Mortality Rate? Are these similar countries statistically significant?
+* Does the wealth and Size of a country indicate its Mortality Rate? Are these similar countries statistically significant?
 
  ![US-Similar Countries Distribution](Charts/US_v_Global_violin_plot.png)
 
 The Median for United States is similar to other countries but has a much more densely populated data points. The other countries are more spread out while the US is oriented towards the mean. That justifies the mortality rate trendline above because other countries started off with a higer rate and over time, the rate declined while United States mortality rate stayed above the Average post 1985 and since then has declined by a much smaller margin. The number of deaths in United States never had the highest ceiling but also has been further from the floor of the entire dataset. 
 
-We can form our null hypothesis - Countries of similar size and wealth have a statistically similar mortality rate.
+We can form our null hypothesis - * Countries of similar size and wealth have a statistically similar mortality rate.
 
 After Performing ANOVA test on the dataset, the p-value is far below 0.05 hence we reject our null hypothesis that the data set is similar. Countries of similar size and wealth do not account for a similar mortality rate and other factors have to be taken in consideration.
 
-What about a subset of the Country dataset? Is that statistically significant?
+* What about a subset of the Country dataset? Is that statistically significant?
 
  ![US-Similar Subser](Charts/US_Mortality_v_Countries_significant.png)
 
@@ -107,10 +107,10 @@ Finally, Change in Leading Causes of Death over 2008-2016 period -
 The age adjusted death rates' trends in Texas seemed to change in 2015 along with the total amounts of deats in 2015 relative to years approximate to 2015.  Since Texas has many oil and gas jobs and a major downturn in the industry began after Thanksgiving of 2014, a hypothesis was made that age adjusted death rates for Texas increased when the unemployment rate increased.  Unemployment data for TX was found and merged into a previous dataframe.  The leading causes of death over time was plotted with the Texas unemployment rate trend over time and overall it did not visually seem to correlate with the age adjusted death rate.  California's, New York's, and Texas' unemployment trends were then plotted with California's, New York's, and Texas' age adjusted deat rates by all causes and again, a trend could not be conslusively visualized.  In fact, during 2010, each state had its highest unemployment rates and the age adjusted death rates continued to decrease.  Texas had the lowest unemployment rates of the states compared in the dataset but also had the higest age adjuste death rates of the states in the comparison.  It is interesting that in 2015, Texas' uneployment rate started to tick up wile California and New York's unemployment rate continued to decrease.  Pearson's correlation coefficient was calculated to be
 -0.241 Texas's age adjusted death rate and its unemployment rates.  The unemployment rates of each state seemed highly correlated as calculted with Pearson's coefficient using pearsonr from scipy.stats. It is also worth noting that in the dataset comparing TX, CA, and NY unenemployment rate with death rates, California had the lowest death rate of the three states, but also the highest unemployment.
 
-  What are the leading causes of Death in Texas? - 
+  * What are the leading causes of Death in Texas? - 
   ![Texas Leading Causes](Charts/texleadingcauses.png)
   
-  How does the three leading causes of death trend over time for Texas? -
+  * How does the three leading causes of death trend over time for Texas? -
   ![Texas Leading Causes Trends](Charts/txheartdiseasedeathrate.png)
   ![Texas Leading Causes Trends](Charts/txcancerdeathrate.png)
   ![Texas Leading Causes Trends](Charts/txstrokedeathrate.png)
@@ -118,7 +118,7 @@ The age adjusted death rates' trends in Texas seemed to change in 2015 along wit
   2015 saw increases in age adjusted death rates for heart disease and stroke and no decrease for cancer.  Did oil and gas downturn and higher rates of  unemployment affect those rates or is there a correlation?
   ![Texas Unemployment vs Age Adjuste Death Rates for top 3 leading causes](Charts/txleadingcausesdremploytrend.png)
   
-  How does California's and New York's unemployment correlate to their age adjusted death rates in comparison to Texas and do the 3 states unemployment rates correlate?
+  * How does California's and New York's unemployment correlate to their age adjusted death rates in comparison to Texas and do the 3 states unemployment rates correlate?
   ![TX CA NY Unemployment vs Age Adjuste Death Rates](Charts/statesdeathrateemploymenttrend.png)
   
   
