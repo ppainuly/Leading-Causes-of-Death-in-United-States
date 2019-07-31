@@ -85,13 +85,22 @@ How does a subset of similar countries become statistically significant but not 
 ### Insight into Leading Causes of Death in United States
 
 These are the leading causes of death in United States - 
- ![Leading Causes](https://raw.githubusercontent.com/ppainuly/Leading-Causes-of-Death-in-United-States/master/Charts/Leading%20causes%20of%20deaths%20in%20United%20States.png)
+
+![Leading Causes](https://raw.githubusercontent.com/ppainuly/Leading-Causes-of-Death-in-United-States/master/Charts/Leading%20causes%20of%20deaths%20in%20United%20States.png)
 
 Increasing Leading Causes of Death in the country - 
 
- ![Increasing Leading Causes](https://raw.githubusercontent.com/ppainuly/Leading-Causes-of-Death-in-United-States/master/Charts/Increasing_Causes_of_deaths%20_in_United_States.png)
+![Increasing Leading Causes](https://raw.githubusercontent.com/ppainuly/Leading-Causes-of-Death-in-United-States/master/Charts/Increasing_Causes_of_deaths%20_in_United_States.png)
  
+ Leading Causes versus Uninsured %
  
+ We looked into the % of uninsured people in the country in the same time period and found a correlation
+ 
+![Uninsured Percentage](https://raw.githubusercontent.com/ppainuly/Leading-Causes-of-Death-in-United-States/master/Charts/Leading%20Causes%20of%20death%20in%20United%20States%20compared%20to%20%25%20Unisured.png)
+
+Finally, Change in Leading Causes of Death over 2008-2016 period - 
+
+![Change in leading causes 2008-16](https://raw.githubusercontent.com/ppainuly/Leading-Causes-of-Death-in-United-States/master/Charts/Change%20in%20Leading%20Causes%20of%20death%20in%20United%20States.png)
 
 
 ### Unemployment Rates and Age Adjusted Death Rates 
