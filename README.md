@@ -70,7 +70,7 @@ We conclude that from a macro level, United States has a much hige number of dea
 
 The Median for United States is similar to other countries but has a much more densely populated data points. The other countries are more spread out while the US is oriented towards the mean. That justifies the mortality rate trendline above because other countries started off with a higer rate and over time, the rate declined while United States mortality rate stayed above the Average post 1985 and since then has declined by a much smaller margin. The number of deaths in United States never had the highest ceiling but also has been further from the floor of the entire dataset. 
 
-We can form our null hypothesis - **Countries of similar size and wealth have a statistically similar mortality rate.
+We can form our null hypothesis - **Countries of similar size and wealth have a statistically similar mortality rate.**
 
 After Performing ANOVA test on the dataset, the p-value is far below 0.05 hence we reject our null hypothesis that the data set is similar. Countries of similar size and wealth do not account for a similar mortality rate and other factors have to be taken in consideration.
 
