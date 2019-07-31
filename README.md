@@ -24,7 +24,7 @@ The initial data from CDC was clean data. All we had to do was filter the data f
 When the team looked at the number of deaths in United Sates for each cause we discovered that Heart disease and Cancer are top two causes of death in the nation but over time the pecent of death due to these diseases is going down. Going through the rest of the causes of death we noticed an upward trend in Sucide and Alzheimer's disease.
 
 
-### Section 3 - Leading Causes of Death in Texas  
+### Section 3 - Analyzing Causes of Death in Texas  
 The original data was taken from the CDC included all states and the District of Columbia.  In this section of the project, the group wanted to answer what the leading causes of death were on a micro level.  The discision was made to analyze Texas since that state would satisfy slicing the data to a micro level and would also be the state local to Rice University.  After drilling down into the original dataset and filtering for Texas, it was determined that heart disease, cancer, and stroke were the three leading causes of death respectively.  
 
 ### Leading Causes' Trends 
