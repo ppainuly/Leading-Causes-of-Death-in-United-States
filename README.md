@@ -148,5 +148,11 @@ The age adjusted death rates' trends in Texas seemed to change in 2015 along wit
   * For Stroke and Heart Diseases, there was a spike in Texas. We investigated if that had a correlation with the Major Oil and Gas Downturn on 2015 and consequently unemployment rates for Texas.
   * Since 1985, United States has the worst Mortality rate(per 100000 people) when compared to other countries of "similar" size and wealth.
   * We formed our null hypothesis that Countries of similar wealth and size will have a similar mortality rate. After performing ANOVA test on the dataset featuring 7 countries, the null hypothesis was rejected. However, when we take a group of 4 countries and perform the same test, the dataset is significant.
+  
+  Files Attached - 
+  * Project_1.ipynb - Main Notebook. Stores, cleans up the data and analyses statewide and countrywide data.
+  * Countries analysis.ipynb	- Notebook Analyses United States Data with on a global cale with OECD similar countries
+  * Leading_Causes_of Death_Completed.ipynb	- Notebook cleans and analyses various factors(like insurance) affecting death rate
+
 
   
