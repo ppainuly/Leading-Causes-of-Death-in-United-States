@@ -34,7 +34,9 @@ After determing heart disease, cancer, and stroke were the top 3 leading causes 
 
 ### Mortality Rate - From a Nationwide and Global Perspective
 
-We looked at the distribution for Causes of Death around the Country, per state and tried to paint a picture how each state relates with its Leading Cause, and how dominant is that Leading Cause for that respective state. The deaths measured and plotted here is the AGe Adjusted Death i.e Number of deaths per 100,000 people. This is done to make sure the data analysed and visualized is normalized and not biased.
+We looked at the distribution for Causes of Death around the Country, per state and tried to paint a picture how each state relates with its Leading Cause, and how dominant is that Leading Cause for that respective state. The deaths measured and plotted here is the age Adjusted Death i.e Number of deaths per 100,000 people. This is done to make sure the data analysed and visualized is normalized and not biased.
+
+P.S The plots were made using Plotly and the interactive version of the charts will be uploaded shortly.
 
   * Total Deaths per State Around United States- 
   ![Deaths Per State around United States](Charts/Total_Deaths_per_State.png)
