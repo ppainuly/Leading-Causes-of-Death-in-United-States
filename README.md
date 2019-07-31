@@ -80,7 +80,7 @@ After Performing ANOVA test on the dataset, the p-value is far below 0.05 hence 
 
  ![US-Similar Subser](Charts/US_Mortality_v_Countries_significant.png)
 
-If we take a subset from the dataset above, accounting for AUstria, Netherlands and Belgium, and perform ANOVA test on the dataset, we get a p-value of 0.33. This dataset is now statistically significant. We can, for this case, accept our null hypothesis and conclude that Size and Wealth of similar countries shows a similar rate of mortality. This is a great question to think about. All four countries form a similar normal distribution and there is a strong correlation between the datasets.
+If we take a subset from the dataset above, accounting for Austria, Netherlands and Belgium, and perform ANOVA test on the dataset, we get a p-value of 0.33. This dataset is now statistically significant. We can, for this case, accept our null hypothesis and conclude that Size and Wealth of similar countries shows a similar rate of mortality. This is a great question to think about. All four countries form a similar normal distribution and there is a strong correlation between the datasets.
 
 How does a subset of similar countries become statistically significant but not the whole dataset. What are the external factors that make the full dataset get rejected for our null hypothesis. This is where geo-political and social demographics need to be researched further.
 
