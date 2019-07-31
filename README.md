@@ -21,9 +21,7 @@ We looked at the dataset in a general countrywise view. We looked at what have b
 ### Section 2 - Leading Causes of Death in United States
 The initial data from CDC was clean data. All we had to do was filter the data for any state we need. This data includes number of death's in each state nationwide for 11 different causes. Out of 11 causes 10 are specified. Looking at the data first question that came to our mind was what are the leading causes of death in US. All 10 Causes of death were observed. To observe the trends for a particular state feel free to run the code and enter the state you would like the data for when asked and it will display you how these leading causes of death are trending.
 
-#### Analysis
 When the team looked at the number of deaths in United Sates for each cause we discovered that Heart disease and Cancer are top two causes of death in the nation but over time the pecent of death due to these diseases is going down. Going through the rest of the causes of death we noticed an upward trend in Sucide and Alzheimer's disease.
-
 
 
 ### Section 3 - Leading Causes of Death in Texas  
