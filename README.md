@@ -88,11 +88,15 @@ These are the leading Causes of Death in the country -
 
  ![Leading Causes of Death](Charts/Leading causes of deaths in United States.png)
  
-Increasing Causes of Death over time
+Increasing Causes of Death over time - 
+
  ![Increasing Causes of Death over time](Charts/Increasing Causes of deaths  in United States.png)
  
-Leading Causes compared to % Uninsured
+Leading Causes compared to % Uninsured - 
+
  ![Leading Causes compared to % Uninsured](Charts/Leading Causes of death in United States compared to % Unisured.png)
+ 
+ ![Change in Leading Causes](Charts/Change in Leading Causes of death in United States.png)
  
  We looked at the data for Leading causes against the number of uninsured people in the country and found a correlation.
 
