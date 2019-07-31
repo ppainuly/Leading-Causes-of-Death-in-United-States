@@ -50,7 +50,7 @@ New York is the worst affected by Heart Disease, which accounts for 18.31% of al
 
 California and Texas both have Heart Disease as the Leading Cause of Death at 14.84% and 14.3% respectively.
 
-Cancer accounts for 9 of 50 states analysed. These states are Alaska, Colorado, Maine, Massuchettes, Minnesota, New Hampshire, Oregon, Vermont and Washington. New Mexico has the lowest proportion with Heart Disease accounting for 60798 death among 489205 total deaths with a mortality rate of 12.43%.
+Cancer accounts for 9 of 50 states analysed. These states are Alaska, Colorado, Maine, Massuchettes, Minnesota, New Hampshire, Oregon, Vermont and Washington. New Mexico has the lowest proportion with Heart Disease accounting for 60,798 death among 489,205 total deaths with a mortality rate of 12.43%.
 
   * Mortality Rate United States and Similar Countries- 
 
