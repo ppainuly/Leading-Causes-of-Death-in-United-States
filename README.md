@@ -82,23 +82,6 @@ If we take a subset from the dataset above, accounting for AUstria, Netherlands 
 
 How does a subset of similar countries become statistically significant but not the whole dataset. What are the external factors that make the full dataset get rejected for our null hypothesis. This is where geo-political and social demographics need to be researched further.
 
-### Leading Causes of Death in United States
-
-These are the leading Causes of Death in the country - 
-
- ![Leading Causes of Death](Charts/Leading causes of deaths in United States.png)
- 
-Increasing Causes of Death over time - 
-
- ![Increasing Causes of Death over time](Charts/Increasing_Causes_of_deaths _in_United_States.png)
- 
-Leading Causes compared to % Uninsured - 
-
- ![Leading Causes compared to % Uninsured](Charts/Leading Causes of death in United States compared to % Unisured.png)
- 
- ![Change in Leading Causes](Charts/Change in Leading Causes of death in United States.png)
- 
- We looked at the data for Leading causes against the number of uninsured people in the country and found a correlation.
 
 ### Unemployment Rates and Age Adjusted Death Rates 
 The age adjusted death rates' trends in Texas seemed to change in 2015 along with the total amounts of deats in 2015 relative to years approximate to 2015.  Since Texas has many oil and gas jobs and a major downturn in the industry began after Thanksgiving of 2014, a hypothesis was made that age adjusted death rates for Texas increased when the unemployment rate increased.  Unemployment data for TX was found and merged into a previous dataframe.  The leading causes of death over time was plotted with the Texas unemployment rate trend over time and overall it did not visually seem to correlate with the age adjusted death rate.  California's, New York's, and Texas' unemployment trends were then plotted with California's, New York's, and Texas' age adjusted deat rates by all causes and again, a trend could not be conslusively visualized.  In fact, during 2010, each state had its highest unemployment rates and the age adjusted death rates continued to decrease.  Texas had the lowest unemployment rates of the states compared in the dataset but also had the higest age adjuste death rates of the states in the comparison.  It is interesting that in 2015, Texas' uneployment rate started to tick up wile California and New York's unemployment rate continued to decrease.  Pearson's correlation coefficient was calculated to be
